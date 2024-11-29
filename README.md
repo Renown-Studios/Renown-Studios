@@ -10,7 +10,7 @@ who is on the team?
 - Porkysticky (Co-Owner, CAO, Dep. Head of Writing, and Head of Development for *REDACTED*
 - Harbinger (Co-Owner, CCO, Head of Writing
 - Toasted (Manager, CMO, Writer of *REDACTED*)
-- TL (Ex. Collaborator, Head of Art and Animation)
+- TL (Ext. Collaborator, Head of Art and Animation)
 
 what tools do we use?
 - our code is all here on github or on our subsidiary (for minecraft specific things) NotRedacted
