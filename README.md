@@ -2,7 +2,7 @@
 about the company!
 
 who are we?
-- we are a team of passionate gamers looking to create our own masterpieces in the future as well as a few treats for other games
+- we are a team of developers and writers making mods and games for the world :)
 
 who is on the team?
 - well there are currently 5 members of our team
