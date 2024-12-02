@@ -16,7 +16,7 @@ what tools do we use?
 - our code is all here on github or on our subsidiary (for minecraft specific things) NotRedacted
 - our file-sharing system is google drive. we heavily recommend this to others as it is simple, easy to use and allows for simple collaboration
 - our communications platform is on discord
-- our coding software is visual studio (https://visualstudio.microsoft.com/en/)
+- our development software is visual studio, JetBrains Java IDE, Eclipse, Unity Game engine, and Unreal Engine 
 
 why do we share what tools we use
 - we don't want to gatekeep info :)
