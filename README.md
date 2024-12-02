@@ -7,8 +7,8 @@ who are we?
 who is on the team?
 - well there are currently 5 members of our team
 - Jordan (Owner, Founder, Head of HR, CTO and CEO)
-- Porkysticky (Co-Owner, CAO, Dep. Head of Writing, and Head of Development for *REDACTED*
-- Harbinger (Co-Owner, CCO, Head of Writing
+- Porkysticky (Co-Owner, CAO, Dep. Head of Writing, and Head of Development for *REDACTED*)
+- Harbinger (Co-Owner, CCO, Head of Writing)
 - Toasted (Manager, CMO, Writer of *REDACTED*)
 - TL (Ext. Collaborator, Head of Art and Animation)
 
