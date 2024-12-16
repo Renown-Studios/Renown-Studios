@@ -1,16 +1,17 @@
 # Renown-Studios
 about the company!
 
-who are we?
-- we are a team of developers and writers making mods and games for the world :)
+Who are we?
+-we are a team of passionate gamers looking to create our own masterpieces in the future as well as a few treats for other games
 
 who is on the team?
 - well there are currently 5 members of our team
-- Jordan (Owner, Founder, Head of HR, CTO and CEO)
-- Porkysticky (Co-Owner, CAO, Dep. Head of Writing, and Head of Development for *REDACTED*)
-- Harbinger (Co-Owner, CCO, Head of Writing)
-- Toasted (Manager, CMO, Writer of *REDACTED*)
-- TL (Ext. Collaborator, Head of Art and Animation)
+- Jordan (Owner, Founder, Head of HR, CEO - Chief Executive, CCO - Chief Compliance , and CTO - Chief Technology Officer and Head of Employment)
+- Porkysticky (Co-Owner, CAO - Chief Administrative Officer, Dep. Head of Writing, and Head of Development for REDACTED)
+- Harbinger (Co-Owner, CXO - Chief Experience Officer and CD - Creative Director, Head of Writing and Dep. Head of Employment)
+- Toasted (Manager, CMO - Chief Marketing, Writer of REDACTED)
+- TL (Ext. Collaborator, Head of Art and Animation and Dep. CD - Deputy Creative Director)
+
 
 what tools do we use?
 - our code is all here on github or on our subsidiary (for minecraft specific things) NotRedacted
