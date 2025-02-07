@@ -6,7 +6,7 @@ Who are we?
 
 who is on the team?
 - well there are currently 5 members of our team
-- Jordan (Owner, Founder, Head of HR, CEO - Chief Executive, CCO - Chief Compliance , and CTO - Chief Technology Officer and Head of Employment)
+- zy1o (Owner, Founder, Head of HR, CEO - Chief Executive, CCO - Chief Compliance , and CTO - Chief Technology Officer and Head of Employment)
 - Porkysticky (Co-Owner, CAO - Chief Administrative Officer, Dep. Head of Writing, and Head of Development for REDACTED)
 - Harbinger (Co-Owner, CXO - Chief Experience Officer and CD - Creative Director, Head of Writing and Dep. Head of Employment)
 - Toasted (Manager, CMO - Chief Marketing, Writer of REDACTED)
